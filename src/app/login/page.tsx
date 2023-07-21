@@ -1,5 +1,5 @@
 function LoginPage() {
   return (
-    <div>LoginPages</div>
+    <div>LoginPage</div>
   )
 }
