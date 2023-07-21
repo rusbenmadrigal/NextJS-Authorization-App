@@ -1,6 +1,6 @@
 function LoginPage() {
   return (
-    <div>LoginPagess</div>
+    <div>LoginPages</div>
   )
 }
 
